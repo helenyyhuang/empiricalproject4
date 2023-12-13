@@ -1,7 +1,7 @@
 # Empirical Project 4 - Using Google DataCommons to Predict Social Mobility
 This repository contains my work on Empirical Project 4 from Prof. Raj Chetty's Big Data course, which is publicly accessible at [Opportunity Insights Course website](https://opportunityinsights.org/course/). The project focuses on using Google DataCommons to predict intergenerational mobility with machine learning methods, particularly targeting the mean rank of a child from the 25th percentile of the national income distribution in each county.
 
-## Technologies Used
+## Technology Used
 - **Anaconda**: A Python environment with Jupyter Notebook is required for interacting with the project.
 - Installation: Visit the [Anaconda website](https://www.anaconda.com/download) to download and install Anaconda for your operating system.
 - Launching Jupyter Notebook: After installing Anaconda, launch Jupyter Notebook via Anaconda; it will open in your default web browser, where you can create and manage notebooks.
